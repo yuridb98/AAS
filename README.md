@@ -1,7 +1,7 @@
 # AUTONOMOUS AND ADAPTIVE SYSTEMS PROJECT
 Proximal Policy Optimization in a Custom Pygame Shooting Game
 
-Initial performances
+Initial performances (first 5 games played)
 
 ![first-5-tests](https://github.com/yuridb98/AAS/assets/70441307/ac9d056f-3162-440b-b039-f55f11af7069)
 
